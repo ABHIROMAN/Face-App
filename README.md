@@ -3,6 +3,9 @@
 ## Outline
 This is a facial recognition-based authentication app developed using React and Faceapi.js. It allows users to authenticate themselves using their own device camera.
 
+## URL
+https://face-app-brown.vercel.app/
+
 
 ## Installation
 
